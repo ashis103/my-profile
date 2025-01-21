@@ -3,7 +3,7 @@ name: New Portfolio Deployment as CICD by Ashis
 on:
   push:
     branches:
-    - main
+    - master
 
 jobs:
   build-and-deploy:
